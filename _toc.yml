@@ -97,8 +97,8 @@ parts:
     - file: week_14/seminar_15
 - caption: Пятнадцатая неделя
   chapters:
-    - file: week_15/lecture_16_1
-    - file: week_15/lecture_16_2
+    - file: week_15/lecture_15_1
+    - file: week_15/lecture_15_2
     - file: week_15/homework_6
 - caption: Шестнадцатая неделя
   chapters:
